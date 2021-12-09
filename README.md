@@ -1,2 +1,5 @@
 # Emojipedia
-A react app to interprete the actual meaning of the emojis
+
+Created with CodeSandbox
+
+Live at: https://k8wxz.csb.app/
